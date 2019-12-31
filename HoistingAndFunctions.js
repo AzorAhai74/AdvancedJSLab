@@ -1,3 +1,5 @@
-name = 'Byron';
-let name;
+setName();
+function setName() {
+var name = 'byron';
 console.log(name);
+}
