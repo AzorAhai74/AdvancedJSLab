@@ -1,3 +1,3 @@
-byron = 'Covalence';
-var byron;
-console.log(byron);
+name = 'Byron';
+var name;
+console.log(name);
