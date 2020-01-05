@@ -1,7 +1,7 @@
 let fruits = ['apples', 'oranges', 'bananas'];
-let favFruit;
+
 function printFruit() {
-    favFruit = fruits[2];
+    let favFruit = fruits[2];
     console.log(fruits[0]);
 }
 
