@@ -16,9 +16,11 @@ printFruit();
 
 let leastFav = fruits[1];
 
-printFavFruit();
 
-console.log(leaseFav);
+myName();
+function myName() {
+    console.log('Hello my name is Byron');
+};
 
 
 
