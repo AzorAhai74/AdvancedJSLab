@@ -14,3 +14,11 @@ function printFruit() {
 
 printFruit();
 
+let leastFav = fruits[1];
+
+printFavFruit();
+
+console.log(leaseFav);
+
+
+
